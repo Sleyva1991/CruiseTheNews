@@ -28,6 +28,7 @@
 		38D86AEC21C35747005ECA1E /* CruiseTheNewsDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CruiseTheNewsDetailViewController.swift; sourceTree = "<group>"; };
 		38D86AF221C3586B005ECA1E /* NewsArticle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsArticle.swift; sourceTree = "<group>"; };
 		38D86AF521C359EF005ECA1E /* NewsArticleController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsArticleController.swift; sourceTree = "<group>"; };
+		E8306CC022A6E84E00DB9C10 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +45,7 @@
 		38D86ACC21C35451005ECA1E = {
 			isa = PBXGroup;
 			children = (
+				E8306CC022A6E84E00DB9C10 /* README.md */,
 				38D86AD721C35451005ECA1E /* CruiseTheNews */,
 				38D86AD621C35451005ECA1E /* Products */,
 			);
